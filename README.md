@@ -33,5 +33,3 @@ https://github.com/cammmmmm1/pro-readme-generator
 ## Recording Location
 https://drive.google.com/file/d/1VPtzZE_NWEtJTp-iXuOf7JP5CreEioAU/view
 
-## Example README Location
-https://github.com/cammmmmm1/pro-readme-generator/blob/main/EXAMPLE.md
